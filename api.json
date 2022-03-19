@@ -1,38 +1,38 @@
 [
     {
-      "precio": 500,
+      "precio": 30000,
       "id": 1,
       "title": "Astro A50",
-      "thumbnailUrl": "https://logitechar.vteximg.com.br/arquivos/ids/157302-450-450/A50---Base-Station-PS4-back.png?v=637152239966630000"
+      "thumbnailUrl": "./img/A50.png"
     },
     {
-      "precio": 300,
+      "precio": 15000,
       "id": 2,
-      "title": "Cloud 2",
-      "thumbnailUrl": "https://media.kingston.com/hyperx/product/hx-product-headset-cloud-2-wireless-rd-1-lg.jpg"
+      "title": "G335",
+      "thumbnailUrl": "./img/G335.png"
     },
     {
-      "precio": 100,
+      "precio": 30000,
       "id": 3,
-      "title": "Orbit S",
-      "thumbnailUrl": "https://media.kingston.com/hyperx/product/hx-product-headset-cloud-orbit-s-3-lg.jpg"
+      "title": "G435",
+      "thumbnailUrl": "./img/G435.png"
     },
     {
-      "precio": 50,
+      "precio": 20000,
       "id": 4,
       "title": "G733",
-      "thumbnailUrl": "https://logitechar.vteximg.com.br/arquivos/ids/157593-450-450/G733-FOB-Blk.png?v=637358672115100000"
+      "thumbnailUrl": "./img/G733.png"
     },
     {
-      "precio": 10,
+      "precio": 25000,
       "id": 5,
       "title": "GPro",
-      "thumbnailUrl": "https://logitechar.vteximg.com.br/arquivos/ids/157142-450-450/981-000817-1.png?v=637064256178300000"
+      "thumbnailUrl": "./img/Gpro.png"
     },
     {
-      "precio": 150,
+      "precio": 15000,
       "id": 6,
-      "title": "Alpha",
-      "thumbnailUrl": "https://media.kingston.com/hyperx/product/hx-product-headset-alpha-2-lg.jpg"
+      "title": "GPro LOL",
+      "thumbnailUrl": "./img/Glol.png"
     }
   ]

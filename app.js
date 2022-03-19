@@ -21,6 +21,13 @@ const fetchData = async () => {
 
 const pintarCards = data => {
     data.forEach(producto => {
-        console.log(producto)
+        templateCard.querySelector('h5').textContent = producto.title
+        templateCard.querySelector('p').textContent = producto.precio
+        templateCard.querySelector('img').setAttribute("src", producto.thumbnailUrl)
+        templateCard.querySelector('.btn-dark').dataset.id = producto.id
+
+        const clone = templateCard.cloneNode(true)
+        fragment.appendChild(clone)
     });
+    items.appendChild(fragment)
 }
